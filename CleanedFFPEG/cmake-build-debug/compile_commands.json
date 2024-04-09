@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/kali/CLionProjects/CleanedFFPEG/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles/CleanedFFPEG.dir/opt.c.o -c /home/kali/CLionProjects/CleanedFFPEG/opt.c",
+  "file": "/home/kali/CLionProjects/CleanedFFPEG/opt.c",
+  "output": "CMakeFiles/CleanedFFPEG.dir/opt.c.o"
+}
+]

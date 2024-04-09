@@ -1,0 +1,6 @@
+projectKey=AnalysisTool
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=AnalysisTool
+ceTaskId=5f192762-73eb-4db7-9688-5eddd5cf37db
+ceTaskUrl=http://localhost:9000/api/ce/task?id=5f192762-73eb-4db7-9688-5eddd5cf37db
